@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "758148089896",
+    "firebase_url": "https://tugas-sherlyn-2327240134-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tugas-sherlyn-2327240134",
+    "storage_bucket": "tugas-sherlyn-2327240134.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758148089896:android:9e705ce3344291d3918d1d",
+        "android_client_info": {
+          "package_name": "com.example.tugas_sherlyn_2327240134"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlZDksGjArO0ZbZ10SPccMej5JnoTJPV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
