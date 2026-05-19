@@ -384,7 +384,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   ),
                 ),
               ],
-            ),
+            ),  
             floatingActionButton: FloatingActionButton(
               backgroundColor: const Color(0xFF6C63FF),
               onPressed: () => Navigator.push(context, MaterialPageRoute(builder: (_) => const AddNoteScreen())),
